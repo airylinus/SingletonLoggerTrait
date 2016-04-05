@@ -3,7 +3,7 @@
  * @author: xiongzuomang@youzan.com
  * @since: 16/4/5 下午6:48
  */
-namespace airylinus\t4h;
+namespace airylinus\singletonloggertrait;
 
 use Psr\Log\LoggerInterface;
 use Psr\Log\NullLogger;
