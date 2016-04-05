@@ -1,6 +1,6 @@
 # SingletonLoggerTrait
 
-## - use SingletonLoggerTrait
+- In class
 
 ```php
 
@@ -18,6 +18,11 @@ class Something {
         }
     }
 }
+```
+
+- setLogger
+
+```php
 
 //index.php
 use monolog\Logger;
