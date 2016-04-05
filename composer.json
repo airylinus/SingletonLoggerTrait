@@ -1,0 +1,22 @@
+{
+  "name": "airylinus/singletonloggertrait",
+  "version": "1.0.0",
+  "description": "singleton logger trait",
+  "keywords": ["logger", "singleton"],
+  "authors": [
+    {
+      "name": "airylinus",
+      "email": "mr.airy@gmail.com"
+    }
+  ],
+  "require": {
+    "psr/log": "*"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+        "airylinus\\singletonloggertrait\\": "src"
+    }
+  }
+}
