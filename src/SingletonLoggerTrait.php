@@ -1,6 +1,6 @@
 <?php
 /**
- * @author: xiongzuomang@youzan.com
+ * @author: mr.airy@gmail.com
  * @since: 16/4/5 下午6:48
  */
 namespace airylinus\singletonloggertrait;
